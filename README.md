@@ -8,7 +8,7 @@ A lightweight port scanner built in Python that identifies open ports and their 
 
 Port scanning is the first step in any security audit. Before a system can be secured (or tested), you need to know which ports are open and what services are running behind them.
 
-This tool connects to a range of ports on a target machine, reports which ones are open, and identifies the service running on each — all from the command line.
+This tool connects to a range of ports on a target machine, reports which ones are open, and identifies the service running on each, all from the command line.
 
 I built this to move beyond simply *using* security tools like Nmap, and to actually understand *how* they work under the hood.
 
